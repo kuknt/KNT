@@ -13,10 +13,10 @@
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
-~~- [2018 제12회 공개소프트웨어 개발자대회](https://project.oss.kr/index.do) : 7.6(금) ~ 10.1(월)~~
-~~- [2018 불법스포츠 도박 근절 해커톤 대회](http://www.sportshackathon.kr/) : 9.20(목) ~ 10.2(화)~~
-~~- [2018 서울시 앱 공모전](https://mplatform.seoul.go.kr/w/index.do) : 6.1(금) ~ 9.30(일)~~
-~~- [삼성서울병원 제 3회 디지털 헬스 해커톤](https://digitalhealthhack.org/) : 접수 9.3(월) ~ 9.30(일)~~
+- ~~[2018 제12회 공개소프트웨어 개발자대회](https://project.oss.kr/index.do) : 7.6(금) ~ 10.1(월)~~
+- ~~[2018 불법스포츠 도박 근절 해커톤 대회](http://www.sportshackathon.kr/) : 9.20(목) ~ 10.2(화)~~
+- ~~[2018 서울시 앱 공모전](https://mplatform.seoul.go.kr/w/index.do) : 6.1(금) ~ 9.30(일)~~
+- ~~[삼성서울병원 제 3회 디지털 헬스 해커톤](https://digitalhealthhack.org/) : 접수 9.3(월) ~ 9.30(일)~~
 ***
 ## KNT 2018
 고려대 세종캠퍼스 컴퓨터융합소프트웨어학과 학술국 자료들입니다.
