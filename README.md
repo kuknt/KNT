@@ -19,16 +19,17 @@
 - ~~[삼성서울병원 제 3회 디지털 헬스 해커톤](https://digitalhealthhack.org/) : 접수 9.3(월) ~ 9.30(일)~~
 ***
 ## KNT 2018
-고려대 세종캠퍼스 컴퓨터융합소프트웨어학과 학술국 자료들입니다.
+고려대 세종캠퍼스 컴퓨터융합소프트웨어학과 학술국
 
 ***
 
 ## 공부에 도움이 될 만한 링크
 ### C/C++
-- [소엔(C/C++)](soen.kr)
+- [소엔(C/C++)](http://soen.kr)
 
-### Git 소스트리
-- [생활코딩 소스트리](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
+### 생활코딩 Git 강의
+- [소스트리](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
+- [CLI](https://www.youtube.com/playlist?list=PLuHgQVnccGMATJK16UJ9Fjay0ozrSZKiI)
 
 ### 알고리즘
 - [KUDING](https://kuding.korea.ac.kr/)
