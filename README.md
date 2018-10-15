@@ -13,7 +13,7 @@
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
 - [10기가 인터넷 활용 아이디어 공모전 홍보](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496567) : 10.18(목)
-- [Kustarup 창업 경진대회](startup.korea.ac.kr) : 9.10(월) ~ 10.12(금)
+- ~~[Kustarup 창업 경진대회](startup.korea.ac.kr) : 9.10(월) ~ 10.12(금)~~
 - ~~[디지털 과거 Code+ 경연대회 홍보](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496575) : 9.30(일)~~
 - ~~[2018 제12회 공개소프트웨어 개발자대회](https://project.oss.kr/index.do) : 7.6(금) ~ 10.1(월)~~
 - ~~[2018 불법스포츠 도박 근절 해커톤 대회](http://www.sportshackathon.kr/) : 9.20(목) ~ 10.2(화)~~
