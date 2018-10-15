@@ -3,7 +3,7 @@
 
 ## 상단 공지
 
-- [이데일리 2018 코딩 챌린지](https://coding.edaily.co.kr/) : ~ 10.23(화)
+- [이데일리 2018 코딩 챌린지](https://coding.edaily.co.kr/) : 10.23(화)
 - [식품안전정보 공공데이터 아이디어·우수사례 공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8289) : 10.31(수)
 - [2018 ICT 융합공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8203) : 10.31(수)
 - [네이버 CAMPUS HACKDAY](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20000984&classId=&jobId=&entTypeCd=004&searchTxt=) : 10.31(수)
