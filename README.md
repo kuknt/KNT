@@ -7,6 +7,8 @@
 - [식품안전정보 공공데이터 아이디어·우수사례 공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8289) : 10.31(수)
 - [2018 ICT 융합공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8203) : 10.31(수)
 - [네이버 CAMPUS HACKDAY](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20000984&classId=&jobId=&entTypeCd=004&searchTxt=) : 10.31(수)
+- [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
+- [인하대학교 미래인재개발원 게임개발 공모전](https://blog.naver.com/inhahrdgame/221375468205) : 12.28(금)
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
