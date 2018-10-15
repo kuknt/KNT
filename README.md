@@ -2,7 +2,7 @@
 학술국 자료
 
 ## 상단 공지
-
+- [NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)
 - [이데일리 2018 코딩 챌린지](https://coding.edaily.co.kr/) : 10.23(화)
 - [식품안전정보 공공데이터 아이디어·우수사례 공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8289) : 10.31(수)
 - [2018 ICT 융합공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8203) : 10.31(수)
