@@ -37,3 +37,6 @@
 - [KUDING](https://kuding.korea.ac.kr/)
 - [백준 온라인 저지](https://www.acmicpc.net/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+### 딥러닝 & Tensorflow
+- [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
