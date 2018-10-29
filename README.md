@@ -3,8 +3,7 @@
 
 ## 상단 공지
 
-- [2018 미래한국 아이디어 공모전](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view&page=1&boardId=56994&boardSeq=3496953) : 에세이 : 11.12(월) / 콜로키움 : 10.29(월)
-- [2018학년도 제5회 Kuding 경진대회 안내](https://goo.gl/forms/cKs07cHEkipDGlwa2) : 10.26(금)일까지 신청 10.27
+- [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
 - [자율주행 특화도시 조성 컨퍼런스](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view&page=1&boardId=56994&boardSeq=3496973) : 10.31(수)
 - [NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)
 
@@ -16,6 +15,8 @@
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
+- ~~[2018 미래한국 아이디어 공모전](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view&page=1&boardId=56994&boardSeq=3496953) : 에세이 : 11.12(월) / 콜로키움 : 10.29(월)~~
+- ~~[2018학년도 제5회 Kuding 경진대회 안내](https://goo.gl/forms/cKs07cHEkipDGlwa2) : 10.26(금)일까지 신청 10.27~~
 - ~~[이데일리 2018 코딩 챌린지](https://coding.edaily.co.kr/) : 10.23(화)~~
 - ~~[10기가 인터넷 활용 아이디어 공모전 홍보](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496567) : 10.18(목)~~
 - ~~[Kustarup 창업 경진대회](startup.korea.ac.kr) : 9.10(월) ~ 10.12(금)~~
@@ -58,5 +59,4 @@
 
 ### 기타
 - [변수명 지어주는 사이트](https://www.curioustore.com/#!/)
-
-
+- [edwith](https://www.edwith.org/)
