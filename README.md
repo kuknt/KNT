@@ -55,7 +55,7 @@
 
 ### 딥러닝 & Tensorflow
 - [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-
+- [한국정보처리학회 강화학습 강의 실습편](https://github.com/wonseokjung/KIPS_Reinforcement)
 ### vim
 - [vim 홈페이지](https://www.vim.org/)
 - [vim cheat sheet](https://vim.rtorr.com/lang/ko/)
