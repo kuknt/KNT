@@ -3,6 +3,7 @@
 
 ## 상단 공지
 공모전, 컨퍼런스, 대회 위주로 올리고 하이퍼링크와 마감일자를 적을 것
+- [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06()
 - [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
 - [vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)
