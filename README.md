@@ -3,7 +3,8 @@
 
 ## 상단 공지
 공모전, 컨퍼런스, 대회 위주로 올리고 하이퍼링크와 마감일자를 적을 것
-- [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 10.01(월) ~ 12.14(금)
+- [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
+- [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
 - [vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)
 - [IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)
 - [삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)
