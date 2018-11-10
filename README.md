@@ -6,8 +6,6 @@
 - [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
 - [vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)
-- [IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)
-- [삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)
 - [Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)
 - [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
 - [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
@@ -15,6 +13,8 @@
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
+- ~~[IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)~~
+- ~~[삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)~~
 - ~~[NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)~~
 - ~~[Nexplant Conference 2018](https://www.samsungsds.com/global/ko/about/event/nexplant-conference-2018.html) : 11.8(목)~~
 - ~~[자율주행 특화도시 조성 컨퍼런스](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view&page=1&boardId=56994&boardSeq=3496973) : 10.31(수)~~
