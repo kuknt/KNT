@@ -14,8 +14,8 @@
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 ***
-- ~~[NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)
-- ~~[Nexplant Conference 2018](https://www.samsungsds.com/global/ko/about/event/nexplant-conference-2018.html) : 11.8(목)
+- ~~[NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)~~
+- ~~[Nexplant Conference 2018](https://www.samsungsds.com/global/ko/about/event/nexplant-conference-2018.html) : 11.8(목)~~
 - ~~[자율주행 특화도시 조성 컨퍼런스](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view&page=1&boardId=56994&boardSeq=3496973) : 10.31(수)~~
 - ~~[식품안전정보 공공데이터 아이디어·우수사례 공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8289) : 10.31(수)~~
 - ~~[2018 ICT 융합공모전](https://www.thinkcontest.com/m/Contest/ContestDetail.html?id=8203) : 10.31(수)~~
