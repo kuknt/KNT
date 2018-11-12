@@ -63,6 +63,7 @@
 - [vim cheat sheet](https://vim.rtorr.com/lang/ko/)
 
 ### 기타
+- [로제타 코드](http://rosettacode.org/wiki/Rosetta_Code)
 - [변수명 지어주는 사이트](https://www.curioustore.com/#!/)
 - [edwith](https://www.edwith.org/)
 - [markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
