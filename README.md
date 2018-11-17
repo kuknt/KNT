@@ -1,23 +1,24 @@
-- [Top Notice](#top-notice)
-- [Useful Links](#useful-links)
-  * [C/C++](#c-c--)
-  * [Python](#python)
-  * [Git](#git)
-  * [Algorithm](#algorithm)
-  * [Deeplearning & Tensorflow](#deeplearning---tensorflow)
-  * [Vim](#vim)
-  * [Web IDE](#web-ide)
-  * [etc](#etc)
-- [KNT 2018](#knt-2018)
-  * [Closed Event](#closed-event)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ## 제 20 회 학술제
 - 시간 : 2018년 11.30(금) 오후 2시 
 - 장소 : 7-310 
 - 제출기한 : 11.23(금) 23시 59분까지 gosehwan@naver.com 으로 (소스코드 + 발표자료 + 실행파일) 보내주시면 됩니다.
+
+## 목차
+
+- [상단 공지](#top-notice)
+- [유용한 링크](#useful-links)
+  * [C/C++](#c-cpp)
+  * [파이썬](#python)
+  * [Git](#git)
+  * [알고리즘](#algorithm)
+  * [딥러닝 & 텐서플로](#deeplearning---tensorflow)
+  * [Vim](#vim)
+  * [웹 IDE](#web-ide)
+  * [기타](#etc)
+- [KNT 2018](#knt-2018)
+  * [종료된 행사](#closed-event)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Top Notice
 - [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
@@ -36,7 +37,7 @@
 
 ## Useful Links
 
-### C/C++
+### C Cpp
 - [소엔(C/C++)](http://soen.kr)
 - [CPP 레퍼런스(영문)](https://en.cppreference.com/w/)
 - [CPP 레퍼런스(한글)](https://ko.cppreference.com/w/)
