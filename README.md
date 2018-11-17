@@ -19,7 +19,7 @@
 - 장소 : 7-310 
 - 제출기한 : 11.23(금) 23시 59분까지 gosehwan@naver.com 으로 (소스코드 + 발표자료 + 실행파일) 보내주시면 됩니다.
 
-## 상단 공지
+## Top Notice
 - [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
 - [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
@@ -34,7 +34,7 @@
 
 ***
 
-## 공부에 도움이 될 만한 링크
+## Useful Links
 
 ### C/C++
 - [소엔(C/C++)](http://soen.kr)
@@ -44,34 +44,34 @@
 - [구글 C++ 스타일 가이드(영문)](https://google.github.io/styleguide/cppguide.html)
 - [구글 C++ 스타일 가이드(한글)](http://jongwook.kim/google-styleguide/trunk/cppguide.xml)
 
-### 파이썬
+### Python
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 
-### Git(버전관리)
+### Git
 - [소스트리 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
 - [CLI 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMATJK16UJ9Fjay0ozrSZKiI)
 - [깃 브랜칭 연습 사이트](https://learngitbranching.js.org/)
 
-### 알고리즘
+### Algorithm
 - [KUDING](https://kuding.korea.ac.kr/)
 - [백준 온라인 저지](https://www.acmicpc.net/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-### 딥러닝 & Tensorflow
+### Deeplearning & Tensorflow
 - [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [한국정보처리학회 강화학습 강의 실습편](https://github.com/wonseokjung/KIPS_Reinforcement)
 - [한국정보처리학회 2018 추계학술대회](https://www.manuscriptlink.com/society/kips/conference/2018fall)
 
-### vim
+### Vim
 - [vim 홈페이지](https://www.vim.org/)
 - [vim cheat sheet](https://vim.rtorr.com/lang/ko/)
 
-### 웹 IDE
+### Web IDE
 - [ideone](http://ideone.com)
 - [repl](http://repl.it)
 - [codepad](http://codepad.org/)
 
-### 기타
+### etc
 - [한국정보처리학회](http://www.kips.or.kr/)
 - [로제타 코드](http://rosettacode.org/wiki/Rosetta_Code)
 - [변수명 지어주는 사이트](https://www.curioustore.com/#!/)
@@ -94,7 +94,7 @@
 
 ***
 
-### 종료된 행사 
+### Closed Event
 
 - ~~[vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)~~
 - ~~[IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)~~
