@@ -11,7 +11,7 @@
   * [파이썬](#python)
   * [Git](#git)
   * [알고리즘](#algorithm)
-  * [딥러닝 & 텐서플로](#deeplearning---tensorflow)
+  * [딥러닝 & 텐서플로](#deeplearning-tensorflow)
   * [Vim](#vim)
   * [웹 IDE](#web-ide)
   * [기타](#etc)
@@ -56,7 +56,7 @@
 - [백준 온라인 저지](https://www.acmicpc.net/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-### Deeplearning & Tensorflow
+### Deeplearning Tensorflow
 - [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [한국정보처리학회 강화학습 강의 실습편](https://github.com/wonseokjung/KIPS_Reinforcement)
 - [한국정보처리학회 2018 추계학술대회](https://www.manuscriptlink.com/society/kips/conference/2018fall)
