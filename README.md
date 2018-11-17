@@ -2,18 +2,92 @@
 학술국 자료
 
 ## 상단 공지
-공모전, 컨퍼런스, 대회 위주로 올리고 하이퍼링크와 마감일자를 적을 것
-- [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06()
+- [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
 - [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
-- [vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)
-- [Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)
-- [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
-- [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
 - [인하대학교 미래인재개발원 게임개발 공모전](https://blog.naver.com/inhahrdgame/221375468205) : 12.28(금)
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
+
 ***
+- [Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)
+- [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
+- [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
+
+***
+
+# 목차
+1. [공부에 도움이 될 만한 링크](#공부에 도움이 될 만한 링크)
+2. [KNT 2018](#KNT 2018)
+3. [종료된 행사](#종료된 행사)
+
+
+
+
+
+## 공부에 도움이 될 만한 링크
+
+### C/C++
+- [소엔(C/C++)](http://soen.kr)
+- [CPP 레퍼런스(영문)](https://en.cppreference.com/w/)
+- [CPP 레퍼런스(한글)](https://ko.cppreference.com/w/)
+- [cplusplus](http://www.cplusplus.com/)
+- [구글 C++ 스타일 가이드(영문)](https://google.github.io/styleguide/cppguide.html)
+- [구글 C++ 스타일 가이드(한글)](http://jongwook.kim/google-styleguide/trunk/cppguide.xml)
+
+### 파이썬
+- [점프 투 파이썬](https://wikidocs.net/book/1)
+
+### Git(버전관리)
+- [소스트리 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
+- [CLI 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMATJK16UJ9Fjay0ozrSZKiI)
+- [깃 브랜칭 연습 사이트](https://learngitbranching.js.org/)
+
+### 알고리즘
+- [KUDING](https://kuding.korea.ac.kr/)
+- [백준 온라인 저지](https://www.acmicpc.net/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+### 딥러닝 & Tensorflow
+- [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- [한국정보처리학회 강화학습 강의 실습편](https://github.com/wonseokjung/KIPS_Reinforcement)
+- [한국정보처리학회 2018 추계학술대회](https://www.manuscriptlink.com/society/kips/conference/2018fall)
+
+### vim
+- [vim 홈페이지](https://www.vim.org/)
+- [vim cheat sheet](https://vim.rtorr.com/lang/ko/)
+
+### 웹 IDE
+- [ideone](http://ideone.com)
+- [repl](http://repl.it)
+- [codepad](http://codepad.org/)
+
+### 기타
+- [한국정보처리학회](http://www.kips.or.kr/)
+- [로제타 코드](http://rosettacode.org/wiki/Rosetta_Code)
+- [변수명 지어주는 사이트](https://www.curioustore.com/#!/)
+- [edwith](https://www.edwith.org/)
+- [markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+***
+
+## KNT 2018
+고려대 세종캠퍼스 컴퓨터융합소프트웨어학과 학술국
+
+상단 공지의 경우 학기까 끝날 때 취소선 되어있는 내용 중 지울 것 지우기
+
+- [공모전](http://www.detizen.com/contest/?Category=19)
+- [온오프믹스](https://www.onoffmix.com/)
+- [쿠플광장](https://kuple.kr/free)
+- [제타위키](https://zetawiki.com/wiki/2018_국내_IT_컨퍼런스_일정)
+
+등 관련 공모전이나 행사가 있을 경우 직접 추가해주거나 학술국장 통해서 연락바랍니다.
+
+***
+
+### 종료된 행사 
+
+- ~~[vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)~~
 - ~~[IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)~~
 - ~~[삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)~~
 - ~~[NVIDIA 2018 AI Conference](https://www.nvidia.com/ko-kr/ai-conference/agenda/) : 11.07(수) ~ 11.08(목)~~
@@ -34,51 +108,4 @@
 - ~~[2018 불법스포츠 도박 근절 해커톤 대회](http://www.sportshackathon.kr/) : 9.20(목) ~ 10.2(화)~~
 - ~~[2018 서울시 앱 공모전](https://mplatform.seoul.go.kr/w/index.do) : 6.1(금) ~ 9.30(일)~~
 - ~~[삼성서울병원 제 3회 디지털 헬스 해커톤](https://digitalhealthhack.org/) : 접수 9.3(월) ~ 9.30(일)~~
-***
-
-## 공부에 도움이 될 만한 링크
-### C/C++
-- [소엔(C/C++)](http://soen.kr)
-- [구글 C++ 스타일 가이드(영문)](https://google.github.io/styleguide/cppguide.html)
-- [구글 C++ 스타일 가이드(한글)](http://jongwook.kim/google-styleguide/trunk/cppguide.xml)
-
-### 파이썬
-- [점프 투 파이썬](https://wikidocs.net/book/1)
-
-### 생활코딩 Git 강의
-- [소스트리](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
-- [CLI](https://www.youtube.com/playlist?list=PLuHgQVnccGMATJK16UJ9Fjay0ozrSZKiI)
-- [깃 브랜칭 연습 사이트](https://learngitbranching.js.org/)
-
-### 알고리즘
-- [KUDING](https://kuding.korea.ac.kr/)
-- [백준 온라인 저지](https://www.acmicpc.net/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
-### 딥러닝 & Tensorflow
-- [Sung Kim Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- [한국정보처리학회 강화학습 강의 실습편](https://github.com/wonseokjung/KIPS_Reinforcement)
-### vim
-- [vim 홈페이지](https://www.vim.org/)
-- [vim cheat sheet](https://vim.rtorr.com/lang/ko/)
-
-### 기타
-- [로제타 코드](http://rosettacode.org/wiki/Rosetta_Code)
-- [변수명 지어주는 사이트](https://www.curioustore.com/#!/)
-- [edwith](https://www.edwith.org/)
-- [markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-***
-## KNT 2018
-고려대 세종캠퍼스 컴퓨터융합소프트웨어학과 학술국
-
-상단 공지의 경우 학기까 끝날 때 취소선 되어있는 내용 중 지울 것 지우기
-
-- [공모전](http://www.detizen.com/contest/?Category=19)
-- [온오프믹스](https://www.onoffmix.com/)
-- [쿠플광장](https://kuple.kr/free)
-- [제타위키](https://zetawiki.com/wiki/2018_국내_IT_컨퍼런스_일정)
-
-등 관련 공모전이나 행사가 있을 경우 직접 추가해주거나 학술국장 통해서 연락바랍니다.
-***
-
 ***
