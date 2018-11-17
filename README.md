@@ -1,21 +1,18 @@
-***
-## 목차
-- [제 20 회 학술제](#--20------)
-- [상단 공지](#-----)
-- [공부에 도움이 될 만한 링크](#---------------)
+- [Top Notice](#top-notice)
+- [Useful Links](#useful-links)
   * [C/C++](#c-c--)
-  * [파이썬](#---)
-  * [Git(버전관리)](#git------)
-  * [알고리즘](#----)
-  * [딥러닝 & Tensorflow](#------tensorflow)
-  * [vim](#vim)
-  * [웹 IDE](#--ide)
-  * [기타](#--)
+  * [Python](#python)
+  * [Git](#git)
+  * [Algorithm](#algorithm)
+  * [Deeplearning & Tensorflow](#deeplearning---tensorflow)
+  * [Vim](#vim)
+  * [Web IDE](#web-ide)
+  * [etc](#etc)
 - [KNT 2018](#knt-2018)
-  * [종료된 행사](#------)
+  * [Closed Event](#closed-event)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-***
+
 
 ## 제 20 회 학술제
 - 시간 : 2018년 11.30(금) 오후 2시 
