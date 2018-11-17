@@ -18,8 +18,6 @@
 - [KNT 2018](#knt-2018)
   * [종료된 행사](#closed-event)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## Top Notice
 - [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
 - [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
