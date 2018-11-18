@@ -7,7 +7,7 @@
 
 - [상단 공지](#top-notice)
 - [유용한 링크](#useful-links)
-  * [C 계열](#c group)
+  * [C 계열](#c-group)
   * [파이썬](#python)
   * [Git](#git)
   * [알고리즘](#algorithm)
