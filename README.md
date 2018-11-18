@@ -7,7 +7,7 @@
 
 - [상단 공지](#top-notice)
 - [유용한 링크](#useful-links)
-  * [C 계열](#c..)
+  * [C 계열](#c group)
   * [파이썬](#python)
   * [Git](#git)
   * [알고리즘](#algorithm)
@@ -35,7 +35,7 @@
 
 ## Useful Links
 
-### C..
+### C group
 - [소엔(C/C++)](http://soen.kr)
 - [CPP 레퍼런스(영문)](https://en.cppreference.com/w/)
 - [CPP 레퍼런스(한글)](https://ko.cppreference.com/w/)
