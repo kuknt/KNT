@@ -19,17 +19,24 @@
   * [종료된 행사](#closed-event)
 
 ## Top Notice
+
+- [제10회 한국 IT 산업 세계화 컨퍼런스](https://www.onoffmix.com/event/157693) : 12.04(화)
 - [AI SUMMIT 2018 SEOUL](http://aisummit.co.kr/) : 12.04(화) ~ 12.06(목)
-- [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
+- [2018 서울시 빅데이터캠퍼스 컨퍼런스](https://www.onoffmix.com/event/160094) 12.07(금)
 - [2018 SW챌린지 공모전](http://www.detizen.com/contest/?Category=19&Idx=65251) : 12.14(금)
+- [[솔트룩스 SAC 2018] 인공지능, 사람의 인격도 학습 가능할까?](https://www.onoffmix.com/event/159815) : 12.17(월)
 - [인하대학교 미래인재개발원 게임개발 공모전](https://blog.naver.com/inhahrdgame/221375468205) : 12.28(금)
 - [한이음 프로젝트 관련 무선충전 드론 프로젝트 학생 모집](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496592)
 - [온라인 안전교육](http://sejongjwizard.korea.ac.kr/user/boardList.action?command=view2&boardId=56994&boardSeq=3496299)
 
 ***
-- [Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)
-- [NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)
-- [국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)
+- [이데일리 블록체인 포럼 2018](https://www.onoffmix.com/event/152490) : 11.26(수)
+- [충주고구려스토리텔링공모전](http://uccpr.kr/2018/chungju_go/) : 11.29(목)
+- [2018년 국방SW융합 컨퍼런스](https://www.onoffmix.com/event/159705) : 11.29(목)
+- [2018 한국데이터마이닝학회 추계학술대회](https://www.onoffmix.com/event/159763) : 11.30(금)
+- [Big Data Analytics Day 2018](https://www.onoffmix.com/event/159358) : 11.30(금)
+- [제 4회 블록체인 커뮤니티포럼 for gathering](https://www.onoffmix.com/event/158021) : 11.30(금)
+- [인디게임위크엔드 2018](https://www.onoffmix.com/event/158384) : 11.30(금) ~ 12.02(일)
 
 ***
 
@@ -97,6 +104,9 @@
 
 ### Closed Event
 
+- ~~[Agile Korea Conference 2018](https://www.facebook.com/events/475462472857275/) : 11.23(금)~~
+- ~~[NUGU Play 개발 및 아이디어 공모전](https://developers.nugu.co.kr/#/) : 10.24(수) ~ 11.23(금)~~
+- ~~[국민은행 소프트웨어 경진대회](http://www.kbsccoding.com/) : 11.23(금)~~
 - ~~[vFORUM 2018](http://www.vmwarekorea.co.kr/vFORUM2018/) : 11.13(화)~~
 - ~~[IBM Developer Day 2018](https://developer.ibm.com/kr/devday2018/) : 11.14(수)~~
 - ~~[삼성SDS Techtonic 2018](https://www.samsungsds.com/global/ko/about/event/techtonic2018.html) : 11.15(목)~~
